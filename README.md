@@ -1,4 +1,4 @@
-# Sensei32: _Starter Package_
+# Sensei32: Blink Example
 
 Sensei32 is a high-quality ULP, Battery-Powered, ESP32 board with embedded environment sensors.
 
@@ -19,7 +19,7 @@ In Sensei32, every pin of ESP32 has been brought to the board perimeter through 
 - Solder the provided **18650 battery holder** and pin-headers, using Sensei32 as a standard ESP32 DevKit, ready for your battery-operated DIY projects.
 - Solder Sensei32 to a custom carrier PCB, using Sensei32 as a feature-packed ESP32 module, with **any Li-Ion or Li-Poly external battery** (up to 6000mAh).
 
-Sensei32 has **world-class ULP performance**, consuming about **21uA in deep-sleep** while providing a **stable 3.3V** over the whole voltage range of a single cell Li-Ion.
+Sensei32 has **world-class ULP performance**, consuming about **21uA in deep-sleep** while providing a **stable and regulated 3.3V** over the whole voltage range of a single cell Li-Ion. The integrated sensors for Temperature, Humidity, Pressure and Air Quality (**BME688**, AI Powered) and precision temperature and humidity (**HDC1080**) provide an exceptional environmental sensing ability.
 
 ![alt text](https://github.com/RaggioRaggio/Sensei32/blob/main/img/SENSEI32_V001_REV002_Boards.jpg?raw=true)
 
