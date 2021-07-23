@@ -10,7 +10,7 @@ We are looking foreward to define the next hardware revision specs and organise 
 
 ✨ Join us on [Discord][DChan] ✨
 
-![alt text](https://github.com/RaggioRaggio/Sensei32/blob/main/img/SENSEI32_V001_REV002_PinOut.jpg?raw=true)
+![alt text](https://github.com/Sensei32-DevKit/media/blob/main/SENSEI32_V001_REV002_PinOut.jpg?raw=true)
 
 ## 🚀 Features
 
@@ -21,7 +21,7 @@ In Sensei32, every pin of ESP32 has been brought to the board perimeter through 
 
 Sensei32 has **world-class ULP performance**, consuming about **21uA in deep-sleep** while providing a **stable and regulated 3.3V** over the whole voltage range of a single cell Li-Ion. The integrated sensors for Temperature, Humidity, Pressure and Air Quality (**BME688**, AI Powered) and precision temperature and humidity (**HDC1080**) provide an exceptional environmental sensing ability.
 
-![alt text](https://github.com/RaggioRaggio/Sensei32/blob/main/img/SENSEI32_V001_REV002_Boards.jpg?raw=true)
+![alt text](https://github.com/Sensei32-DevKit/media/blob/main/SENSEI32_V001_REV002_Boards.jpg?raw=true)
 
 Other features of Sensei32 are:
 
@@ -74,7 +74,7 @@ Once installed the ESP32 Arduino Board Support Package, Sensei32 Arduino board c
 | Flash Mode | QIO |
 | Partition Scheme | Default 4MB with spiffs |
 
-![alt text](https://github.com/RaggioRaggio/Sensei32/blob/main/img/GUIDE_00_ArduConfig_SENSEI32.png?raw=true)
+![alt text](https://github.com/Sensei32-DevKit/media/blob/main/GUIDE_00_ArduConfig_SENSEI32.png?raw=true)
 
 ### 2. You are ready to go!
 
