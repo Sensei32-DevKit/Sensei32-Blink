@@ -6,7 +6,7 @@ We are looking foreward to define the next hardware revision specs and organise 
 
 ✨ Follow the project on [Hacakday.io][HChan] ✨
 
-[//]: # ✨ Check out our store on [Tindie][TChan] ✨
+[//]: # (✨ Check out our store on [Tindie][TChan] ✨)
 
 ✨ Join us on [Discord][DChan] ✨
 
@@ -37,9 +37,9 @@ Other features of Sensei32 are:
 - **Activity LED**, routed to IO2
 - **USB Power Supply LED** and **Battery InCharge LED**, managed by BQ24092
 
-[//]: # PLACEHOLDER: Blink Gif with terminal...
-[//]: # A quick demo on how to assembly the **18650 battery holder** and **pin-headers**, to use Sensei32 as a standard ESP32 DevKit:
-[//]: # https://user-images.githubusercontent.com/14925798/126035802-63ded463-5af1-4854-b9ec-f1f7bcdcf78c.mov
+[//]: # (PLACEHOLDER: Blink Gif with terminal...)
+[//]: # (A quick demo on how to assembly the **18650 battery holder** and **pin-headers**, to use Sensei32 as a standard ESP32 DevKit:)
+[//]: # (https://user-images.githubusercontent.com/14925798/126035802-63ded463-5af1-4854-b9ec-f1f7bcdcf78c.mov)
 
 ## Tech
 
@@ -79,23 +79,6 @@ Once installed the ESP32 Arduino Board Support Package, Sensei32 Arduino board c
 ### 2. You are ready to go!
 
 Just upload the firmware to your Sensei32 board and enjoy! 
-
-## Development Insights
-
-Sensei32 Prototype ZERO (a blob of wires and evaluation boards) have shown a very promising battery life of 90 days with a 3000mAh li-ion 18650 battery, while running a firmware derived from the brilliant [ESP32-e-Paper-Weather-Display][G6EJD] in a power hungry cycle that totaled in about 35s of running time with WiFi activity every 40minutes:
-
-- W/B/Y 2.9" ePaper
-- HDC1080 environment sensor
-- Get Weather data from OpenWeather
-- Push indoor (room) data to ThingSpeak
-- Updates (SensorRead/Get/Push/FullDisplayUpdate), 24h/24h (no night sleep)
-- No sleep in-between updates, ESP32 DeepSleep only after the display update completely ends
-
-![alt text](https://github.com/RaggioRaggio/Sensei32/blob/main/img/SENSEI32_V001_REV002_WeatherStation_plus_IndoorSensing.jpg?raw=true)
-
-We are looking forward to **doubling the battery life** thanks to the **optimised Sensei32 (Ver.001 Rev.002) Hardware Design** and **Firmware**. Check out the **3D-Print_Case** folder and print your own **Sensei32 Stand-Alone** case!
-
-![alt text](https://github.com/RaggioRaggio/Sensei32/blob/main/img/SENSEI32_V001_REV002_StandAlone_3D-Print_Case.jpg?raw=true)
 
 ## Special Thanks
 
