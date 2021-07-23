@@ -2,7 +2,7 @@
 
 Sensei32 is a high-quality ULP, Battery-Powered, ESP32 board with embedded environment sensors.
 
-We are looking foreward to define the next hardware revision specs and organise PCBs reservation for the following production run. 
+We are looking forward to define the next hardware revision specs and organise PCBs reservation for the following production run. 
 
 ✨ Follow the project on [Hacakday.io][HChan] ✨
 
