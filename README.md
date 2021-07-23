@@ -82,7 +82,7 @@ Just upload the firmware to your Sensei32 board and enjoy!
 
 ## 🙏🏼 Special Thanks
 
-I'd like to acknowledge the assistance of [G6EJD][G6EJD_H] that has inspired us to design Sensei32. His knowledge and constructive advice has lead to many valuable contribution to this project.
+We would like to acknowledge the assistance of [G6EJD][G6EJD_H] that has inspired us to design Sensei32. His knowledge and constructive advice has lead to many valuable contribution to this project.
 
 
 [//]: # (These are reference links used in the body of this note and get stripped out when the markdown processor does its job. There is no need to format nicely because it shouldn't be seen. Thanks SO - http://stackoverflow.com/questions/4823468/store-comments-in-markdown-syntax)
